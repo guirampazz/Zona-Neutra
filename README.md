@@ -25,3 +25,10 @@ Utilizamos um site para mostrar que este jogo é livre de qualquer tipo de virú
 > ![image](https://user-images.githubusercontent.com/84259647/118387559-7df8bb80-b5f5-11eb-8040-775fe3827fd3.png)
 
 
+# Como instalar
+
+▫️ Escolha um de nossos meios de download(MediaFire ou Google Drive) e baixe normalmente.
+
+▫️ Após isso abre a pasta Downloads de seu computador, ou a pasta em que vai os downloads que você faz.
+
+▫️ Clique com o botão direito sobre o arquivo, e crique sobre Extrair aqui(extract here).![image](https://user-images.githubusercontent.com/84259647/118387847-19d6f700-b5f7-11eb-8677-27e54de97267.png)
