@@ -45,7 +45,7 @@ Utilizamos um site para mostrar que este jogo é livre de qualquer tipo de virú
 
 ◻️ Após isso abre a pasta Downloads de seu computador, ou a pasta em que vai os downloads que você faz.
 
-◻️ Clique com o botão direito sobre o arquivo, e crique sobre Extrair aqui(em inglês: extract here), caso você não temha um programa de descompactação poderá aparecer uma mensagem de descompactação do próprio Windows, caso não apareça indicamos o [WinRaR](https://www.win-rar.com/start.html?&L=0). [.![image](https://user-images.githubusercontent.com/84259647/118387847-19d6f700-b5f7-11eb-8677-27e54de97267.png)
+◻️ Clique com o botão direito sobre o arquivo, e crique sobre Extrair aqui(em inglês: extract here), caso você não temha um programa de descompactação poderá aparecer uma mensagem de descompactação do próprio Windows, caso não apareça indicamos o [WinRaR](https://www.win-rar.com/start.html?&L=0). ![image](https://user-images.githubusercontent.com/84259647/118387847-19d6f700-b5f7-11eb-8677-27e54de97267.png)
 
 ◻️ Logo após isso aparecerá uma pasta chamada **Project1**, abra a pasta.
 
