@@ -7,4 +7,10 @@ no meio de sua busca ela faz descobertas tenebrosas sobre coisas de seu passado.
 
 
 
-# Como iniciar o jogo
+# Download's
+Deixaremos duas maneiras de fazer o download do jogo, apenas escolha a de sua preferência.
+
+**Mediafire** == [Clique aqui](https://google.com)
+
+
+
