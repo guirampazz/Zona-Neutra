@@ -10,7 +10,7 @@ no meio de sua busca ela faz descobertas tenebrosas sobre coisas de seu passado.
 # Download's
 Deixaremos duas maneiras de fazer o download do jogo, apenas escolha a de sua preferência.
 
-**Mediafire** = [Clique aqui](https://www.mediafire.com/file/02txpgjdrbbioqs/Zona_Neutra_-_Projeto_Final.zip/file)
+**Mediafire** = [Clique aqui](https://www.mediafire.com/file/4n5n74ny1emm0bb/Zona_Neutra_-_Projeto_Final.zip/file)
 
 **Google Drive** = [Clique aqui](https://drive.google.com/file/d/1yZavWD64ankc53gQeW9TqU3JYWSxcSF8/view?usp=sharing)
 
